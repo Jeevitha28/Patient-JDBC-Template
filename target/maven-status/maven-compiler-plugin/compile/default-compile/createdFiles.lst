@@ -1,0 +1,6 @@
+com\jeevitha\PatientTest.class
+com\jeevitha\PatientDAOImpl.class
+com\jeevitha\AppConfig.class
+com\jeevitha\Patient.class
+com\jeevitha\PatientMapper.class
+com\jeevitha\PatientDAO.class
